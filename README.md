@@ -1,8 +1,7 @@
 # Attractive Advance Portfolio Website
 ## _Chatting Bot Like Design (Whatsapp like interface)_
 
-
-- [Running Site]((https://abhay-portfolio1.netlify.app/))
+- [Running Site](https://abhay-portfolio1.netlify.app/)
 
 <!-- [![N|Solid](images/demo.gif)](https://vinayak-09.github.io/) -->
 
